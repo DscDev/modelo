@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: sans-serif;
+	font-variant: small-caps;
+}
+
+header{
+	background:#F44336;
+	color:#FFF;
+	height: 100px;
+}
+nav{
+	background:#E91E63;
+	color:#FFF;
+	height: 70px;
+}
+section{
+	float: left;
+	width: 70%;
+	background:#9C27B0;
+	color:#FFF;
+	height: 700px;
+}
+aside{
+	float: right;
+	width: 30%;
+	background:#3F51B5;
+	color:#FFF;
+	height: 300px;
+
+}
+footer{
+	background: #2196F3;
+	color:#FFF;
+	width: 100%;
+	clear: both;
+}
