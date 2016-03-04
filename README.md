@@ -1,2 +1,2 @@
 # modelo
-Modelo de una pagina comun
+Modelo de una página común

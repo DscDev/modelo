@@ -5,6 +5,11 @@ body{
 	font-variant: small-caps;
 }
 
+.content{
+	position: relative;
+	top:45%;
+}
+
 header{
 	background:#F44336;
 	color:#FFF;
